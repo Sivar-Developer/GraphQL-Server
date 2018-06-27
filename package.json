@@ -1,0 +1,16 @@
+{
+  "name": "customerbase",
+  "version": "1.0.0",
+  "description": "GraphQL Server",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "author": "Sivar Sarkawt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "nodemon": "^1.17.5"
+  }
+}
